@@ -14,4 +14,4 @@ white space.
 
 The entry line:
 
-> Autocorrect changed "I'll bring the report" to "I'll bring the raccoon." I have now been asked to bring the raccoon to every meeting.
+> Autocorrect changed "I will bring the report" to "I will bring the raccoon." I have now been asked to bring the raccoon to every meeting.
